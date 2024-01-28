@@ -10,6 +10,9 @@ defmodule BasicMath do
     divident/divider
   end
 
+  @doc """
+    rounds a float number to 2 decimal points
+  """
   def round_up(value) do
     Float.ceil(value,2)
   end

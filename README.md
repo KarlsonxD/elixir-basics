@@ -1,6 +1,7 @@
 # BasicProject
 
-**TODO: Basic Project following [elixir mentors playlist](https://www.youtube.com/watch?v=O5b8GWAAjqs&list=PL2Rv8vpZJz4w7Sm9STyZvoY0JAKUk_JOB&pp=iAQB)**
+**Basic Project following [elixir mentors playlist](https://www.youtube.com/watch?v=O5b8GWAAjqs&list=PL2Rv8vpZJz4w7Sm9STyZvoY0JAKUk_JOB&pp=iAQB)**
+The [Repository](https://github.com/ElixirMentor/elixir_basics_solutions) for his playlist
 
 ## Installation
 

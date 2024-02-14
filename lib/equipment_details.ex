@@ -20,7 +20,7 @@ defmodule EquipmentDetails do
   end
 
   def item_details(:probe) do
-    {2, :kg, 1}
+    {2, :lb, 1}
   end
 
   # for a more detailed error message, function overload with unknown atom, otherwise it would spit out all tested methods
